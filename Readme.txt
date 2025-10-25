@@ -1,6 +1,6 @@
 Thanks for downloading this template!
 
-Template Name: Flattern
-Template URL: https://bootstrapmade.com/flattern-multipurpose-bootstrap-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Template Name: Aaradyaa Gold Trade LLP
+Template URL: https://aaradyaagold.com/
+Author: AaradyaaGold.com
+License: https://aaradyaagold.com/license/
